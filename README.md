@@ -3,4 +3,4 @@
 
 ## Projects
 
-[Garby - Classification for Recycling](https://tech-espm.github.io/garby)
+[Garby - Classification for Recycling](./garby)
